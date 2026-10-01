@@ -1,0 +1,14 @@
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.exe
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.deps.json
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.runtimeconfig.json
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.dll
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\bin\Debug\net10.0\HelloWorkshop.pdb
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.AssemblyInfoInputs.cache
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.AssemblyInfo.cs
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.dll
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\refint\HelloWorkshop.dll
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.pdb
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\HelloWorkshop.genruntimeconfig.cache
+C:\Users\morel\RiderProjects\pprg\PierwszyProgram\HelloWorkshop\obj\Debug\net10.0\ref\HelloWorkshop.dll
