@@ -1,4 +1,4 @@
-\##Uruchomienie
+##Uruchomienie
 
 commit23
 
@@ -10,9 +10,8 @@ Autor: Student - Warsztat Programisty
 
 
 
-\##Wymagania
+##Wymagania
 
 commit2
 
 dotnet run
-
