@@ -1,12 +1,5 @@
-# HelloWorkshop
-
-Aplikacja konsolowa .NET stworzenia podczas laboratorium.
-
-## Uruchomienie
-
-```bash
-dotnet run
-```
+##Start
+##Uruchomienie
 
 
 ## Kontakt
