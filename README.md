@@ -10,5 +10,11 @@ Autor: Student - Warsztat Programisty
 
 
 
+\##Wymagania
+
+
+
+
+
 dotnet run
 
