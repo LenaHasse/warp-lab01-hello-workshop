@@ -9,8 +9,7 @@ dotnet run
 ```
 
 
+## Kontakt
 
-\## Kontakt
-
-Autor: Lena
+Autor: Student - Warsztat Programisty
 
