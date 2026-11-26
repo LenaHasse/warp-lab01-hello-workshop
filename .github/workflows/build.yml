@@ -11,8 +11,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: ./HelloWorkshop.csproj
-
+  PROJECT_PATH: ./src/ProjectThatDoesNotExist/Project.csproj
 jobs:
   build:
     runs-on: ubuntu-latest
